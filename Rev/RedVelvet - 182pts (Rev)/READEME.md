@@ -1,6 +1,6 @@
 RedVelvet - 182pts (Rev)
 ========================
-Categoty : Reversing
-Final Point : 182pts
-Description : 
+**Categoty** : Reversing<br />
+**Final Point** : 182pts<br />
+**Description** : 
 > Happiness:)
