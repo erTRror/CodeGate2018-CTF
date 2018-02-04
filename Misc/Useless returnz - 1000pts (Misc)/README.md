@@ -2,7 +2,7 @@ Useless returnz - 1000pts (Misc)
 ========================
 **Categoty** : Misc<br />
 **Final Point** : 1000pts<br />
-**Resolved people : 0 person
+**Resolved people** : 0 person
 **Description** : 
 > Useless returnz<br />
 > I don't know the cipher Key, but I can login as admin using "Useless" challenge!<br />
